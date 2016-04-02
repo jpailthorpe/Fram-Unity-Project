@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/`A1/endgametimer.js">
+    <Files>
+      <File FileName="Assets/loadlevel.js" Line="16" Column="24" />
+      <File FileName="Assets/loadMemory1.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/LaptopSceneController.js" Line="9" Column="2" />
+      <File FileName="Assets/`A1/endgametimer.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/Camera Scripts/zoom_right_mouse.js" Line="1" Column="1" />
+      <File FileName="Assets/endmemory1.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Scripts/SmoothFollow2.js" Line="1" Column="1" />
+      <File FileName="Assets/GUIfadescreen.js" Line="1" Column="1" />
+      <File FileName="Assets/Fadeinout.cs" Line="1" Column="1" />
+      <File FileName="Assets/canvas clear.js" Line="1" Column="1" />
+      <File FileName="Assets/`A1/endgameload.js" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
